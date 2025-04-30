@@ -1,6 +1,8 @@
 public class helloAbruzzese {
 
     public static void main(String[] args){
-        System.out.println(x:"Hello Abruzzese");
+        System.out.println(x:"Hello Abruzzese");//stampo hello nome
+
+        System.out.println(x:"10/01/2007");//stampo data di nascita
     }
 }
